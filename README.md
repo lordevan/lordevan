@@ -34,6 +34,7 @@
   <div style="display: inline_block">
     <a href = "mailto:alberini124@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/elli-alberini-12b944204/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.tumblr.com/blog/elliotdevart" target="_blank"><img src="https://img.shields.io/badge/-Tumblr-purple?style=for-the-badge&logo=tumblr&logoColor=white" target="_blank"></a>
   </div>
   
 </div>
