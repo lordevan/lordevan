@@ -1,5 +1,5 @@
 <a href="https://github.com/lordevan">
-    <h2>Elli</h2>
+    <h1>Elli</h1>
   </a>
 
 <div align="center">
