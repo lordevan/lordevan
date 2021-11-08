@@ -1,9 +1,11 @@
-<div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://avatars.githubusercontent.com/u/79338256?v=4" alt="Logo" width="80" height="80">
+<a href="https://github.com/lordevan">
+    <h2>Elli</h2>
   </a>
 
-  <h3 align="center">Elli</h3>
+<div align="center">
+  
+
+  
 
   <p align="center">
     <br/>
