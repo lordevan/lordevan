@@ -9,7 +9,7 @@
 
   <p align="center">
     <br/>
-    Tecnologias que eu tenho conhecimento
+    Tecnologias que já trabalhei
   <div style="display: inline_block">
     <img align="center" alt="Elli-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Elli-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -22,17 +22,13 @@
   </div>
   </p>
   
-  <br><br><br>
+  <br>
   
-  Minhas métricas
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lordevan&show_icons=true&layout=compact&theme=radical&hide_border=true&custom_title=Pontuação)](https://github.com/lordevan)
   
-  <div>
-  <a href="https://github.com/lordevan">
-    <img 
-       height="180em" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordevan&layout=compact&langs_count=7&theme=tokyonight&title_color=white&hide_border=true"/>
-  </a>
-</div>
+  [![As minhas métricas de programação no que diz respeito as linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=lordevan&layout=compact&theme=radical&hide_border=true&custom_title=Rank%20de%20linguagens)](https://github.com/lordevan)
+  
+  
 </div>
 
 
