@@ -3,10 +3,6 @@
   </a>
 
 <div align="center">
-  
-
-  
-
   <p align="center">
     <br/>
     Tecnologias que já trabalhei
@@ -21,18 +17,22 @@
     <img align="center" alt="Elli-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   </div>
   </p>
-  
   <br>
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lordevan&show_icons=true&layout=compact&theme=radical&hide_border=true&custom_title=Pontuação)](https://github.com/lordevan)
   
-  [![As minhas métricas de programação no que diz respeito as linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=lordevan&layout=compact&theme=radical&hide_border=true&custom_title=Rank%20de%20linguagens)](https://github.com/lordevan)
+  <div style="display: inline_block">
+  <img 
+       height="140em" 
+       src="https://github-readme-stats.vercel.app/api?username=lordevan&show_icons=true&layout=compact&theme=radical&hide_border=true&custom_title=Pontuação"/>
+    <img 
+       height="140em" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordevan&layout=compact&theme=radical&hide_border=true&custom_title=Rank%20de%20linguagens"/>
+  </div>
+  
+<!--   [![As minhas métricas no geral]](https://github.com/lordevan) -->
+  
+<!--   [![As minhas métricas de programação no que diz respeito as linguagens]()](https://github.com/lordevan) -->
   
   
 </div>
-
-
-
-
-
 <br>
