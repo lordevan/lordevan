@@ -30,7 +30,7 @@
   <a href="https://github.com/lordevan">
     <img 
        height="180em" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordevan&layout=compact&langs_count=7&theme=dracula&title_color=blue&hide_border=true"/>
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordevan&layout=compact&langs_count=7&theme=tokyonight&title_color=white&hide_border=true"/>
   </a>
 </div>
 </div>
