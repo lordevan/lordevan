@@ -6,7 +6,7 @@
   <p align="center">
     <br/>
     Estudante de Ciência da computação, designer + Dev de software e analista de sistemas/dados
-      <br>
+      <br><br>
   <div style="display: inline_block">
     <img align="center" alt="Elli-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Elli-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
