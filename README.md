@@ -1,11 +1,11 @@
 <a href="https://github.com/lordevan">
-    <h1>Olá! Vasculhe um pouco mais 😊</h1>
+    <h1> Olá seja bem vindo! Fique a vontade 😊</h1>
   </a>
 
 <div align="center">
   <p align="center">
     <br/>
-    Estudante de Ciência da computação, designer + Dev de software e analista de sistemas/dados
+    Estudante de Engenharia de Automação e controle, designer + Analista de dados
       <br><br>
   <div style="display: inline_block">
     <img align="center" alt="Elli-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
