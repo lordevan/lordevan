@@ -5,7 +5,7 @@
 <div align="center">
   <p align="center">
     <br/>
-    Estudante de Engenharia de Automação e controle, designer + Analista de dados
+    Futura estudante de engenharia da computação - Indústria automobilística
       <br><br>
   <div style="display: inline_block">
     <img align="center" alt="Elli-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
